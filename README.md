@@ -12,14 +12,14 @@ Stereo reconstruction aims to perform a dense 3D reconstruction of a scene from 
 
 ### Implementation details
 Precalcuated pose and calibration data was used from the [Middlebury Dataset](https://vision.middlebury.edu/stereo/data/scenes2014/) for this implementation.<br/>
-Refer [Pose_Calculation](...) for calculation of of pose if not available and replace appropriate data in the code before running the code.
+Refer Pose_Calculation for calculation of of pose if not available and replace appropriate data in the code before running the code.
 
 ### Results 
 1. Piano dataset<br/>
-<img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianodisp.png" alt="drawing" width="250"/>  <img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianogif.gif" alt="drawing" width="200"/>
+<img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianodisp.png" alt="drawing" width="400"/> <br/> <img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianogif.gif" alt="drawing" width="400"/>
 <br/>
-2. 
-
+2. Umbrella dataset<br/>
+<img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/umbrelladisp.png" alt="drawing" width="400"/> <br/> <img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/umbrellagif.gif" alt="drawing" width="400"/>
 
 
 
