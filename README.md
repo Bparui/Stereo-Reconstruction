@@ -15,7 +15,11 @@ Precalcuated pose and calibration data was used from the [Middlebury Dataset](ht
 Refer [Pose_Calculation](...) for calculation of of pose if not available and replace appropriate data in the code before running the code.
 
 ### Results 
-1. Piano dataset
+1. Piano dataset<br/>
+<img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianodisp.png" alt="drawing" width="250"/>  <img src="https://github.com/Bparui/Stereo-Reconstruction/blob/main/pianogif.gif" alt="drawing" width="200"/>
+<br/>
+2. 
+
 
 
 
